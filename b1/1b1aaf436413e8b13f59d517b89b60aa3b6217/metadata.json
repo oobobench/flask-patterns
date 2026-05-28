@@ -1,0 +1,25 @@
+{
+  "anchor_schema_version": 1,
+  "oobo_version": "1.1.0",
+  "commit_hash": "b11b1aaf436413e8b13f59d517b89b60aa3b6217",
+  "branch": "master",
+  "author": "oobobench <bench@oobo.ai>",
+  "author_type": "automated",
+  "contributors": [
+    {
+      "name": "oobobench <bench@oobo.ai>",
+      "role": "human"
+    }
+  ],
+  "committed_at": 1780006358,
+  "message": "Initial commit",
+  "files_changed": [],
+  "added": 0,
+  "deleted": 0,
+  "ai_added": 0,
+  "ai_deleted": 0,
+  "human_added": 0,
+  "human_deleted": 0,
+  "session_ids": [],
+  "transparency_mode": "on"
+}
